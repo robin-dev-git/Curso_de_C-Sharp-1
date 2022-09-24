@@ -29,5 +29,16 @@
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 
 # Ignore Format in file.exe
-*.exe
-*/*.exe
+001_ejemplo/*.exe
+002_ejemplo/*.exe
+003_ejemplo/*.exe
+004_ejemplo/*.exe
+005_ejemplo/*.exe
+006_ejemplo/*.exe
+007_ejemplo/*.exe
+008_ejemplo/*.exe
+009_ejemplo/*.exe
+010_ejemplo/*.exe
+011_ejemplo/*.exe
+012_ejemplo/*.exe
+pruebaMono/*.exe

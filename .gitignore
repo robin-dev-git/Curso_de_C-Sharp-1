@@ -27,3 +27,7 @@
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+# Ignore Format in file.exe
+*.exe
+*/*.exe

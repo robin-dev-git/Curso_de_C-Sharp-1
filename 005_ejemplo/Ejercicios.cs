@@ -33,7 +33,7 @@ class Ejercicios
             2. Pide al Usuario el número de un mes, en minisculas
             (Por ejemplo, "marzo") y responde cuántos días tiene (para "marzo", la respuesta sería 31).
         */
-        Console.Write("Escribe un mes con miniscula: ");
+        Console.Write("Escribe un mes con minisculas: ");
         string mesDias = Console.ReadLine();
 
         switch (mesDias)

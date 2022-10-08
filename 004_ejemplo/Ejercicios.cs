@@ -41,7 +41,7 @@ class Ejercicios
         System.Console.Write("Introduce otro número: ");
         num4 = int.Parse(Console.ReadLine());
         if ((num3 > 0) && (num4 > 0)) System.Console.WriteLine("Los números son positivos");
-        else if ((num3 > 0) || (num4 > 0)) System.Console.WriteLine("Alguno número es positivo, otro no es positivo y/o el numero es cero. ");
+        else if ((num3 >= 0) || (num4 >= 0)) System.Console.WriteLine("Alguno número es positivo, otro no es positivo y/o el numero es cero. ");
         else System.Console.WriteLine("Los números no son positivos.");
     }
 }

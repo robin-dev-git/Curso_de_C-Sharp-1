@@ -93,7 +93,5 @@ class PruebaDeIF
         {
             System.Console.WriteLine("Lo siento, No es tu nombre");
         }
-
-
     }
 }
